@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "nome": "TV SMART 75 ",
+      "preço": 9000,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Notebook",
+      "preço": 5000
+    },
+    {
+      "id": 3,
+      "nome": "Celular Samsung",
+      "preço": 1500
+    },
+    {
+      "nome": "Relogio",
+      "preço": "550.00",
+      "id": 4
+    },
+    {
+      "nome": "TV SMART",
+      "preço": 5400,
+      "id": 5
+    }
+  ]
+}
